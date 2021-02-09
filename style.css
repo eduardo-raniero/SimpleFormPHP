@@ -1,0 +1,80 @@
+body{
+    background-color: #8cbdca41;
+}
+
+h1 {
+    margin-top: 5rem;
+    text-align: center;
+    font: 700 3rem Raleway;
+}
+
+.text {
+    margin: 0 auto;
+    text-align: center;
+}
+
+span {
+    font: 400 1.2rem Raleway;
+    line-height: 30px;
+}
+
+.default{
+    width: 12rem;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+
+label {
+    font: 600 1.2rem Roboto;
+    color: #444444;
+    margin-top: 1.2rem;
+}
+
+input {
+    width: 12rem;
+    font: 400 1rem Montserrat;
+    padding: 0.6rem;
+    border: none;
+    border-radius: 0.2rem;
+}
+
+input:focus {
+    border: none;
+    outline: none;
+}
+
+textarea {
+    width: 12rem;
+    border: none;
+}
+
+#btn-submit {
+    margin-top: 1.6rem;
+    font: 700 1.2rem Roboto;
+    border: none;
+    width: 12rem;
+    padding: 0.6rem;
+    vertical-align: middle;
+    background-color: #08262E;
+    color: white;
+    border-radius: 0.2rem;
+}
+
+#btn-submit:hover {
+    background-color: #0c343f;
+}
+
+#btn-submit:active {
+    background-color: #075d75;
+}
+
+.test{
+    margin: 0 auto;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.credit{
+    margin: 0 auto;
+    font-size: 0.8rem;
+}
